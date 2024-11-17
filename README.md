@@ -29,7 +29,7 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 ### Frontend
 - **React.js**: User interface with dynamic rendering.
 - **Axios**: For making HTTP requests to the backend.
-- **TailwindCSS/Bootstrap**: Styling for responsive UI.
+- **Bootstrap**: Styling for responsive UI.
 
 ### Backend
 - **Node.js**: Server-side runtime environment.
@@ -53,7 +53,7 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/book-store.git
+   git clone 
    cd book-store
    ```
 
@@ -125,21 +125,13 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 
 ---
 
-## 🖼️ Screenshots
-1. Home Page
-2. Book Details
-3. Admin Dashboard
-
----
-
 ## 🤝 Contributions
 Contributions are welcome! If you’d like to contribute, please fork the repository and submit a pull request.
 
 ---
 
 ## 🧑‍💻 Authors
-- **Your Name** - Project Lead
-- Collaborators (if any)
+- **A.Srikanth** - Project Lead
 
 ---
 
