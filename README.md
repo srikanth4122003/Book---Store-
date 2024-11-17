@@ -54,7 +54,7 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/srikanth4122003/Book---Store-.git
-   cd Book---Store
+   cd Book---Store-
    ```
 
 2. **Install Backend Dependencies**
