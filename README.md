@@ -132,8 +132,3 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 ## 🧑‍💻 Authors
 - **A.Srikanth** - Project Lead
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
